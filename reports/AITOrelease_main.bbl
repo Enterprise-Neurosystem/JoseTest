@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{SDGs}
+'United Nations~Development Programme'.
+\newblock Undp: Sustainable development goals, 2015.
+\newblock url: https://www.undp.org/sustainable-development-goals.
+
+\bibitem{YaraGlaciers}
+Yara Mohajerani, Seongsu Jeong, Bernd Scheuchl, Isabella Velicogna, Eric
+  Rignot, and Pietro Milillo.
+\newblock Automatic delineation of glacier grounding lines in differential
+  interferometric synthetic-aperture radar data using deep learning.
+\newblock {\em Scientific Reports}, 11(1):4992, Mar 2021.
+
+\bibitem{TomasBeaches}
+Tomás Acuña-Ruz, Diego Uribe, Richard Taylor, Lucas Amézquita,
+  María~Cristina Guzmán, Javier Merrill, Paula Martínez, Leandro Voisin, and
+  Cristian {Mattar B.}
+\newblock Anthropogenic marine debris over beaches: Spectral characterization
+  for remote sensing applications.
+\newblock {\em Remote Sensing of Environment}, 217:309--322, 2018.
+
+\bibitem{GlobalCO2}
+Zhao-Cheng Zeng, Liping Lei, Kimberly Strong, Dylan B.~A. Jones, Lijie Guo, Min
+  Liu, Feng Deng, Nicholas~M. Deutscher, Manvendra~K. Dubey, David W.~T.
+  Griffith, Frank Hase, Bradley Henderson, Rigel Kivi, Rodica Lindenmaier,
+  Isamu Morino, Justus Notholt, Hirofumi Ohyama, Christof Petri, Ralf Sussmann,
+  Voltaire~A. Velazco, Paul~O. Wennberg, and Hui Lin.
+\newblock Global land mapping of satellite-observed co2 total columns using
+  spatio-temporal geostatistics.
+\newblock {\em International Journal of Digital Earth}, 10(4):426--456, 2017.
+
+\bibitem{SurfaceWater}
+Essam Sharaf~El Din, Yun Zhang, and Alaeldin Suliman.
+\newblock Mapping concentrations of surface water quality parameters using a
+  novel remote sensing and artificial intelligence framework.
+\newblock {\em International Journal of Remote Sensing}, 38(4):1023--1042,
+  2017.
+
+\bibitem{NeonicsOnBees}
+Muhammad~Shoaib Saleem, Zachary~Y. Huang, and Meghan~O. Milbrath.
+\newblock Neonicotinoid pesticides are more toxic to honey bees at lower
+  temperatures: Implications for overwintering bees.
+\newblock {\em Frontiers in Ecology and Evolution}, 8, 2020.
+
+\bibitem{GRACE_CongoBasinWatershed}
+John~W. Crowley, Jerry~X. Mitrovica, Richard~C. Bailey, Mark~E. Tamisiea, and
+  James~L. Davis.
+\newblock Land water storage within the congo basin inferred from grace
+  satellite gravity data.
+\newblock {\em Geophysical Research Letters}, 33(19), 2006.
+
+\bibitem{Fukami2022}
+Leslie~E. Decker, Priscilla~A. San~Juan, Magdalena~L. Warren, Cory~E.
+  Duckworth, Cheng Gao, and Tadashi Fukami.
+\newblock Higher variability in fungi compared to bacteria in the foraging
+  honey bee gut.
+\newblock {\em Microbial Ecology}, Jan 2022.
+
+\bibitem{Attention2017}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2017.
+
+\bibitem{StanfordFoundationPaper}
+Rishi Bommasani, Drew~A. Hudson, Ehsan Adeli, Russ Altman, Simran Arora, Sydney
+  von Arx, Michael~S. Bernstein, Jeannette Bohg, Antoine Bosselut, Emma
+  Brunskill, Erik Brynjolfsson, Shyamal Buch, Dallas Card, Rodrigo Castellon,
+  Niladri~S. Chatterji, Annie~S. Chen, Kathleen Creel, Jared~Quincy Davis,
+  Dorottya Demszky, Chris Donahue, Moussa Doumbouya, Esin Durmus, Stefano
+  Ermon, John Etchemendy, Kawin Ethayarajh, Li~Fei{-}Fei, Chelsea Finn, Trevor
+  Gale, Lauren Gillespie, Karan Goel, Noah~D. Goodman, Shelby Grossman, Neel
+  Guha, Tatsunori Hashimoto, Peter Henderson, John Hewitt, Daniel~E. Ho, Jenny
+  Hong, Kyle Hsu, Jing Huang, Thomas Icard, Saahil Jain, Dan Jurafsky,
+  Pratyusha Kalluri, Siddharth Karamcheti, Geoff Keeling, Fereshte Khani, Omar
+  Khattab, Pang~Wei Koh, Mark~S. Krass, Ranjay Krishna, Rohith Kuditipudi, and
+  et~al.
+\newblock On the opportunities and risks of foundation models.
+\newblock {\em CoRR}, abs/2108.07258, 2021.
+
+\bibitem{bert}
+Jacob Devlin, Ming{-}Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock {BERT:} pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em CoRR}, abs/1810.04805, 2018.
+
+\bibitem{GPT2018}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya
+  Sutskever.
+\newblock Language models are unsupervised multitask learners.
+\newblock 2018.
+
+\end{thebibliography}

@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Ramsey, Michael-Thomas
+AU  - Bencsik, Martin
+AU  - Newton, Michael Ian
+AU  - Reyes, Maritza
+AU  - Pioz, Maryline
+AU  - Crauser, Didier
+AU  - Delso, Noa Simon
+AU  - Le Conte, Yves
+PY  - 2020
+DA  - 2020/06/16
+TI  - The prediction of swarming in honeybee colonies using vibrational spectra
+JO  - Scientific Reports
+SP  - 9798
+VL  - 10
+IS  - 1
+AB  - In this work, we disclose a non-invasive method for the monitoring and predicting of the swarming process within honeybee colonies, using vibro-acoustic information. Two machine learning algorithms are presented for the prediction of swarming, based on vibration data recorded using accelerometers placed in the heart of honeybee hives. Both algorithms successfully discriminate between colonies intending and not intending to swarm with a high degree of accuracy, over 90% for each method, with successful swarming prediction up to 30 days prior to the event. We show that instantaneous vibrational spectra predict the swarming within the swarming season only, and that this limitation can be lifted provided that the history of the evolution of the spectra is accounted for. We also disclose queen toots and quacks, showing statistics of the occurrence of queen pipes over the entire swarming season. From this we were able to determine that (1) tooting always precedes quacking, (2) under natural conditions there is a 4 to 7 day period without queen tooting following the exit of the primary swarm, and (3) human intervention, such as queen clipping and the opening of a hive, causes strong interferences with important mechanisms for the prevention of simultaneous rival queen emergence.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-66115-5
+DO  - 10.1038/s41598-020-66115-5
+ID  - Ramsey2020
+ER  - 
